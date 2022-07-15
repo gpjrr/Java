@@ -1,0 +1,57 @@
+12
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+a b
+16
+b e
+2
+a c
+10
+b c
+7
+c e
+1
+b d
+13
+c g
+21
+d g
+15
+g f
+3
+a j
+12
+f h
+20
+e f
+9
+e k
+4
+f k
+8
+g h
+18
+h j
+19
+j i
+5
+g i
+17
+k i
+6
+k l
+11
+l i
+14
+f f
+-1

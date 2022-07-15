@@ -1,0 +1,52 @@
+9
+a
+b
+c
+d
+e
+f
+g
+h
+i
+a d
+1
+d g
+2
+a b
+1
+a e
+2
+d e
+0
+b d
+3
+b e
+2
+e h
+1
+e g
+3
+d h
+2
+h g
+1
+c b
+0
+b f
+1
+f e
+1
+c e
+2
+c f
+1
+f i
+2
+f h
+2
+e i
+3
+h i
+0
+f f
+-1

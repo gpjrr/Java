@@ -1,0 +1,40 @@
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+A B
+4
+B C
+8
+C D
+7
+D E
+9
+E F
+10
+F G
+2
+G H
+1
+H A
+8
+H B
+11
+H I
+7
+G I
+6
+I C
+2
+F C
+4
+F D
+11
+f f
+-1

@@ -1,0 +1,35 @@
+8
+a
+s
+c
+d
+e
+g
+b
+f
+s a
+1
+s c
+0
+s d
+1
+c d
+1
+a c
+4
+e a
+5
+s f
+3
+s g
+1
+f g
+2
+f b
+2
+f e
+2
+e b
+3
+f f
+-1

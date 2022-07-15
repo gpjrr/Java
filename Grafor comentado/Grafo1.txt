@@ -1,0 +1,45 @@
+8
+a
+c
+f
+h
+b
+e
+d
+g
+a c
+5
+c f
+7
+a h
+10
+h d
+14
+a b
+3
+b c
+5
+c e
+1
+d a
+2
+h f
+9
+h b
+6
+b e
+4
+c g
+9
+d b
+8
+b g
+6
+h g
+3
+g e
+15
+d e
+12
+f f
+-1
